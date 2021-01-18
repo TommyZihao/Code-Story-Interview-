@@ -84,15 +84,19 @@ Later, I find myself good at teaching this kind of hard-core thing.
 
 More and more subscribers make me more confident and I think this could be my career of my lifetime.
 
-## `How you met Microsoft?`
+## `What cool stuff during your intern in MSRA?`
 
 Microsoft supports Microsoft student club in hundreds of universities in China, also in my college, Tongji Univerisity.
 
-We have the opportunity to work with Microsoft experts from MSRA on various cutting-edge projects, for example, autoML.
+We have the opportunity to work with Microsoft experts from MSRA on various cutting-edge projects.
 
-I was chosen to take part in the summer camp in MSRA, Beijing.
+Also many technical lectures, hackathon and summer camp.
 
+Working in Microsoft is a very happy thing
 
+I was an intern in ARD-Incubation Group, 
+
+AI-EDU
 
 ## `MVP and MSA`
 
@@ -161,12 +165,6 @@ railway crack detection
 
 
 This process is extremely enjoyable for the team. It is determined from the bottom of my heart that we are doing a great thing and providing high-quality educational resources for a huge number of future learners. No matter from national policies, public science popularization, making money, media brands, knowledge creation, it will create huge long-term value.
-
-
-
-## `What cool stuff during your intern in MSRA?`
-
-
 
 ## `What can we do as a developer to face the challenge in the Covid-19 pandemic?`
 

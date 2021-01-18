@@ -8,11 +8,17 @@
 
 # Opening
 
+## `Tell us about your self, please`
+
 My name is Zihao, a student from Tongji Univeristy, Shanghai.
 
-I am both a Most Valuable Profession(MVP) and Microsoft Student Ambassador(MSA) in China.
+I am both a Most Valuable Professional(MVP) and Microsoft Student Ambassador(MSA) in China.
 
-I have a video channel about AI, Python, Machine Learning, Deep learning, Computer Vision and raspberry pi. Also have many tutorials of Azure and Cognitive Service.
+I am also a student leader in Microsoft Student Club in Tongji University.
+
+And I was an intern in MSRA.
+
+I have a video channel about AI, Python, Machine Learning, Deep learning, Computer Vision and raspberry pi. Also have many tutorials of Azure and Cognitive Service such as Custom Vision.
 
 In this special period of time, thanks for giving me this precious opportunity.
 
@@ -22,17 +28,71 @@ I am looking forward to sharing my experience about technology content creation 
 
 ## `How you changed you career from a civil engineer to a developer?`
 
-(hate coding, never code)
+That's a really interesting story.
 
-## `How I met Microsoft?`
+I majored in civil engineering when I was an undergraduate.
 
-(upenn, CEO, blockchain, github)
+To be honest, at that time, I hate coding, I never write a single line of code.
 
-Microsoft student club in Tongji University
+I thought coding is exhausting, especially debugging is something hard and boring.
 
-summer camp of MSRA
+My major, civil engineering, focus on all kinds of construction, design and build architecture,  house, tunnel, bridge, railway, tower, nothing but mechanics and dynamics.
 
-intern in MSRA
+There have already been lots of ready-made technical standards or software, you just follow the rules and nothing special, nothing new.
+
+This is my graduation project, I spent 3 months designing an office building. 
+
+
+
+The thing changed in 2018 when I was an exchange student at the University of Pennsylvania,
+
+There was a lecture in Wharton school, inviting CEO of Microsoft, Nadella
+
+He shared his insight about block chain, quantum computing as well as open source.
+
+Later, I find Github, this amazing website.
+
+I learned several open source toolkit such as vscode, keras, even bitcoin.
+
+In Github, you can cooperate with developers all over the world.
+
+Programming really can change the world, in my hands. 
+
+Just like, I can be the god of my own universe.
+
+I started to study Python, data annalyse, algorithm, machine learning, AI, deep learning, computer vision, font-end development with hunger.
+
+That was not an easy way, I used to get stuck in a python bug or deal with data structure issue the whole day.
+
+Without eating, sleeping, even drinking water, that's called heart-stream.
+
+## `When you start to make content creation `
+
+I started to write technical blogs.
+
+At the same time, more and more people, especially students from traditional majors, such as mechanics, finance, medical research, energy engineering,  automobile, they want to get in IT world, too.
+
+Use advanced machine learning and AI to empower their own profession.
+
+With my experience, I believe I can really help them.
+
+simplify the learning curve, avoid detours, and consequently save lots of time and money as well.
+
+My first video is about convolutional neural network, the breakthough algorithm in computer vision and deep learning.
+
+Later, I find myself good at teaching this kind of hard-core thing.
+
+More and more subscribers make me more confident and I think this could be my career of my lifetime.
+
+## `How you met Microsoft?`
+
+Microsoft supports Microsoft student club in hundreds of universities in China, also in my college, Tongji Univerisity.
+
+We have the opportunity to work with Microsoft experts from MSRA on various cutting-edge projects, for example, autoML.
+
+I was chosen to take part in the summer camp in MSRA, Beijing.
+
+
 
 ## `MVP and MSA`
 
